@@ -12,5 +12,5 @@ By using the google trained mobilenet v2 model which is trained on 1.4 million i
 
 **Flower dataset:** [click here.]("https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz")
 
-**Mobilenet V2:** [click here.]("https://tfhub.dev/google/tf2-preview/mobilenet_v2/classification/4")
-**Mobilenet V2 Model Feature Vector:** [click here.]("https://tfhub.dev/google/tf2-preview/mobilenet_v2/feature_vector/4")
+**Mobilenet V2:** [click here.](https://tfhub.dev/google/tf2-preview/mobilenet_v2/classification/4)
+**Mobilenet V2 Model Feature Vector:** [click here.](https://tfhub.dev/google/tf2-preview/mobilenet_v2/feature_vector/4)
